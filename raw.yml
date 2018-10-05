@@ -1,6 +1,4 @@
 ---
-#making a change for the benefit of learning git
-
 - name: do a show arp on eos
   hosts: eos
   gather_facts: no
